@@ -1,6 +1,6 @@
-<h1 align="center">Projeto Recriando a Interface da Netflix</h1>
+<h1 align="center">One Plix - Clone da Interface da Netflix</h1>
 
-<p align="center">Projeto desenvolvido na DIO para recriar a interface da Netflix. Aqui resolvi criar a One Plix, plataforma que irá conter os arcos do Anime One Piece</p>
+<p align="center">Projeto desenvolvido na DIO para recriar a interface da Netflix. Aqui resolvi criar a One Plix, plataforma que irá conter os arcos do Anime One Piece. Ao se clicar nos botões, o usuário é direcionado para o site da Opex onde contém todos os episódios do arco que ele escolher assistir.</p>
 
 ### Status
 <h4 align="center"> 
