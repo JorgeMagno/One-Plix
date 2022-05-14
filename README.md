@@ -1,6 +1,6 @@
 <h1 align="center">One Plix - Clone da Interface da Netflix</h1>
 
-<p align="center">Projeto desenvolvido na DIO para recriar a interface da Netflix. Aqui resolvi criar a One Plix, plataforma que irá conter os arcos do Anime One Piece. Ao se clicar nos botões, o usuário é direcionado para o site da Opex onde contém todos os episódios do arco que ele escolher assistir.</p>
+Projeto desenvolvido na DIO para recriar a interface da Netflix. Aqui resolvi criar a One Plix, plataforma que irá conter os arcos do Anime One Piece. Ao se clicar nas opções, o usuário é direcionado para o site da [Opex](https://onepieceex.net/) onde contém todos os episódios do arco que ele escolher assistir. Além disso, o usuário pode escolher ir para a página que contém todos os arcos, além de filmes e mangás.
 
 ### Status
 <h4 align="center"> 
@@ -10,6 +10,12 @@
 ### Pré-requisitos
 - Cadastro na [DIO](https://digitalinnovation.one/).
 - Um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+### Interface
+![Interface do site](/img/interface-one-plix.png)
+
+### Descrição
+
 
 ### 🛠 Tecnologias
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" /><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=whit"/>
